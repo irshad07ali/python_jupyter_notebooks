@@ -1,2 +1,2 @@
-# python_jupyter_noterbooks
+# python_jupyter_notebooks
 data_science_analytics_coding_practice
